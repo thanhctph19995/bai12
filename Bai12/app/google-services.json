@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "860269670406",
+    "project_id": "bai12-686db",
+    "storage_bucket": "bai12-686db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860269670406:android:27fbb358ec893bf0b61387",
+        "android_client_info": {
+          "package_name": "com.example.appchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwT6APDjmcuhv0V7UBvi4cwu7dCKBfPO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
